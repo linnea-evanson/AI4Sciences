@@ -24,4 +24,4 @@ Documentation
 ## Pull requests
 - By pair, fork the github repository of one of the other student, create a new branch using `git checkout -b branch-name`, then implement regularized linear regression in the `linear_regression/linear_regression.py` file. Then, commit your changes, push the branch on github, and do a pull request on the other students' repo. 
 
-- Check that the continuous integration tests are run, and that everything it ok. Then, merge the pull request.
+- Check that the continuous integration tests are run, and that everything it ok. Then, merge the pull request."# AI4Sciences" 
